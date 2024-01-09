@@ -1,2 +1,2 @@
 # StEP
-STepwise Explainable Paths
+Stepwise Explainable Paths
